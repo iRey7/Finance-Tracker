@@ -1,1 +1,1 @@
-alert("Welcome to the beginning!");
+// Subtract all expenses from Income
